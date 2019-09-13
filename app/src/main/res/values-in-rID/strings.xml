@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue 3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="title">judul</string>
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="poster_movie">Poster Film</string>
+    <string name="rating">Peringkat</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="popularity">Popularitas</string>
+    <string name="language">Bahasa</string>
+    <string name="overview">Deskripsi</string>
+    <string name="value">-</string>
+    <string name="backdrop_movie">latar movie</string>
+    <string name="details">Rincian</string>
+</resources>
